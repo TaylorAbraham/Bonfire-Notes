@@ -13,7 +13,7 @@ import * as ROUTES from '../../constants/routes';
 
 import './index.scss';
 
-function App() {
+const App = () => {
   return (
     <Router>
       <div>
